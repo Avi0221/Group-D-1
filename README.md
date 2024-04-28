@@ -1,18 +1,14 @@
-## SHIWANGI
-### INTRODUCTION:-
-  ●My name is Shiwangi
-  ●Residence-I am from Patna,Bihar.
+# Introduction By Avinash:-
 
-  ### EDUCATION:
-  ●Matriculation- I have done my matriculation from Bradfort International School,Patna and secured 80.80% marks.
-  ●Higher Education- I have done my Higher Educstion from Prakritik School,Patna and secured 83% marks.
+I'm Avinash Kumar From Dhanbad Jharkhand.
 
-  ●Currently I am doing Bachelor of Technology (B-Tech) from Haldia Institute of Technology and Iam 1st Year student.
-  ●Department Name- School of Applied Science and Humamities
-  ●Branch Name- Computer Science Engineering with Specialization in Cyber Security.
+## Eduction:-
 
-### SKILLS:
-  ●C Programming
-  ●OOPs
-  ●Basics of Java
-  ●Currently started Web Development
+- Currently I'm Pursuing B.Tech (Electronics And Communication Engineering) At Haldia Institute Of Technology.
+- I'have done my Intermediate (SCIENCE)From DAV PUBLIC SCHOOL,MOONIDIH,DHANBAD
+- I'have done my Matriculation From GGCET ST.Xavier's International School,Dhanbad,Jharkhand.
+
+## Skills:-
+
+Currently I'm Learning C Language ,HTML.CSS,JAVASCRIPT
+## intrest:-
